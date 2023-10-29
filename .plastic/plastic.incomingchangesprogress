@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      79
+    ],
+    "SourceCsetId": 80,
+    "DestinationCsetId": 79,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/Level4.unity",
+        "ItemId": 1603,
+        "ParentItemId": 213,
+        "BaseRevId": 1720,
+        "SourceRevId": 2025,
+        "DestinationRevId": 1720
+      },
+      {
+        "Path": "/Assets/Scenes/Level5.unity",
+        "ItemId": 1705,
+        "ParentItemId": 213,
+        "BaseRevId": 1971,
+        "SourceRevId": 2026,
+        "DestinationRevId": 1971
+      }
+    ]
+  }
+]
